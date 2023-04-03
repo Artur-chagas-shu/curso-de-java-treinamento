@@ -8,8 +8,7 @@ public class exercicio {
 			fatorial *= numero;
 				
 				System.out.println("fatorial de  "+ numero +"="+ fatorial);
-				
-				while()
+						
 			
 		
 		
