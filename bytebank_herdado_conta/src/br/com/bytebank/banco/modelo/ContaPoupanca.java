@@ -10,4 +10,10 @@ public class ContaPoupanca extends Conta {
 		setSaldo(valor);
 		
 	}
+    
+    @Override
+	public String toString() {
+		// TODO Auto-generated method stub
+		return "Conta poupanca" + super.toString();
+	}
 }
